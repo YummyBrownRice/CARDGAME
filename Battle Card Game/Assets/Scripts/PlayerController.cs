@@ -5,7 +5,7 @@ using UnityEngine;
 public class PlayerController : MonoBehaviour
 {
 
-    private Rigidbody2D rb;
+    /*private Rigidbody2D rb;
     private Vector2 movement;
     private Vector2 acceleration;
 
@@ -31,5 +31,5 @@ public class PlayerController : MonoBehaviour
     private void FixedUpdate()
     {
         rb.velocity = rb.velocity + acceleration;
-    }
+    }*/
 }
